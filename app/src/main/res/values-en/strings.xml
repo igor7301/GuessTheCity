@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_game">START</string>
+    <string name="setting">SETTINGS</string>
+    <string name="CITY_PREFERENCE">CITIES</string>
+    <string name="COUNTRY_PREFERENCE">COUNTRIES</string>
+    <string name="restart_game">RESTART</string>
+    <string name="quit_game">QUIT</string>
+    <string name="current_level">Level:</string>
+    <string name="continue_to_next_level">CONTINUE</string>
+    <string name="you_won_message">YOU WON!</string>
+    <string name="you_loose_message">YOU LOST.\nTRY AGAIN</string>
+    <string name="new_level_message">NEW ACHIEVEMENT\nLEVEL</string>
+    <string name="end_game_progress_message">PROGRESS:</string>
+    <string name="wall_message_success">The progress has been published on your wall</string>
+    <string name="wall_message_error">Error while sending</string>
+    <string name="login_error">Login error</string>
+</resources>

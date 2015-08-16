@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map name="city">
+    <entry key="1">Амстердам</entry>
+    <entry key="2">Дубай</entry>
+    <entry key="3">Гонконг</entry>
+    <entry key="4">Фира</entry>
+    <entry key="5">Иерусалим</entry>
+    <entry key="6">Венеция</entry>
+    <entry key="7">Киев</entry>
+    <entry key="8">Гавана</entry>
+    <entry key="9">Лондон</entry>
+    <entry key="10">Москва</entry>
+    <entry key="11">Нью Йорк</entry>
+    <entry key="12">Париж</entry>
+    <entry key="13">Петергоф</entry>
+    <entry key="14">Пиза</entry>
+    <entry key="15">Рио</entry>
+
+    <entry key="16">Астана</entry>
+    <entry key="17">Барселона</entry>
+    <entry key="18">Дубай</entry>
+    <entry key="19">Мюнхен</entry>
+    <entry key="20">Рим</entry>
+    <entry key="21">Ялта</entry>
+    <entry key="22">Куала Лумпур</entry>
+    <entry key="23">Лас Вегас</entry>
+    <entry key="24">Лос Анжелес</entry>
+    <entry key="25">Сингапур</entry>
+    <entry key="26">Москва</entry>
+    <entry key="27">Лофотены</entry>
+    <entry key="28">Прага</entry>
+    <entry key="29">Сан Франциско</entry>
+    <entry key="30">Районг</entry>
+
+    <entry key="31">Гальштат</entry>
+    <entry key="32">Баку</entry>
+    <entry key="33">Ванкувер</entry>
+    <entry key="34">Сантьяго</entry>
+    <entry key="35">Вюрцбург</entry>
+    <entry key="36">Гуанджи</entry>
+    <entry key="37">Лиссабон</entry>
+    <entry key="38">Майами</entry>
+    <entry key="39">Монте-Карло</entry>
+    <entry key="40">Нью Йорк</entry>
+    <entry key="41">Позитано</entry>
+    <entry key="42">Сиэтл</entry>
+    <entry key="43">Сингапур</entry>
+    <entry key="44">Стамбул</entry>
+    <entry key="45">Таллин</entry>
+
+    <entry key="46">Алесунд</entry>
+    <entry key="47">Бангкок</entry>
+    <entry key="48">Бремм</entry>
+    <entry key="49">Агра</entry>
+    <entry key="50">Дальвик</entry>
+    <entry key="51">Портофино</entry>
+    <entry key="52">Москва</entry>
+    <entry key="53">Кейптаун</entry>
+    <entry key="54">Макао</entry>
+    <entry key="55">Мачу Пикчу</entry>
+    <entry key="56">Монте Карло</entry>
+    <entry key="57">Фредрикстад</entry>
+    <entry key="58">Сеул</entry>
+    <entry key="59">Шанхай</entry>
+    <entry key="60">Лхаса(Тибет)</entry>
+
+    <entry key="61">Антверпен</entry>
+    <entry key="62">Динан</entry>
+    <entry key="63">Эдинбург</entry>
+    <entry key="64">Рейкьявик</entry>
+    <entry key="65">Мельбурн</entry>
+    <entry key="66">Монтенегро</entry>
+    <entry key="67">Фюссен</entry>
+    <entry key="68">Окленд</entry>
+    <entry key="69">Синтра</entry>
+    <entry key="70">Рига</entry>
+    <entry key="71">Стокгольм</entry>
+    <entry key="72">Токио</entry>
+    <entry key="73">Веллингтон</entry>
+    <entry key="74">Йокогама</entry>
+
+
+
+</map>

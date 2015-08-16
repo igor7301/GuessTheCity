@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical"
+              android:id="@+id/mainLayout" >
+
+    <ImageView android:layout_width="fill_parent"
+               android:layout_height="fill_parent"
+               android:id="@+id/imageViewMainPicture"
+               android:scaleType="fitXY"
+            />
+
+
+
+
+    <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/relativeLayoutTopBar"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:gravity="center_vertical">
+
+
+            <RatingBar
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/ratingBar"
+                    android:numStars="3"
+                    android:rating="3"
+                    style="@style/CustomRatingBar" android:layout_margin="10dp"/>
+
+
+                <ImageView android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:maxHeight="20dp"
+                           android:maxWidth="20dp"
+                           android:id="@+id/imageViewHint"
+                           android:src="@drawable/hint"
+                           android:layout_centerVertical="true"
+                           android:layout_toLeftOf="@+id/textViewLevelInfo"
+                           android:layout_toStartOf="@+id/textViewLevelInfo"
+                           android:layout_marginRight="5dp"
+                           android:layout_marginEnd="5dp"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="xx/xx"
+                android:id="@+id/textViewProgress"
+                android:layout_below="@+id/textViewLevelInfo"
+                android:layout_alignRight="@+id/textViewLevelInfo"
+                android:layout_alignEnd="@+id/textViewLevelInfo"/>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/current_level"
+                  android:layout_alignTop="@+id/ratingBar"
+                  android:layout_alignParentRight="true"
+                  android:layout_alignParentEnd="true"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp" android:id="@+id/textViewLevelInfo"/>
+
+    </RelativeLayout>
+
+
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  android:gravity="center_horizontal|center_vertical"
+            android:layout_centerVertical="true" android:layout_alignParentStart="true"
+                  android:layout_alignParentLeft="true"
+            android:id="@+id/linearLayoutEndGame">
+
+        <TextView android:layout_width="fill_parent" android:layout_height="fill_parent"
+                  android:id="@+id/textViewEndGameMessage"
+                  android:text="@string/you_won_message"
+                  android:textStyle="bold"
+                  android:textSize="25dp"
+                  android:gravity="center"
+                  android:layout_margin="7dp" android:textColor="#ffffffff" style="@style/InfoTextForEndGame"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/end_game_progress_message"
+                android:id="@+id/textViewEndGameProgressMessage" android:layout_gravity="center_horizontal"
+                android:textColor="#ffffffff" android:textSize="20dp" android:textIsSelectable="false"
+                style="@style/InfoTextForEndGame"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/restart_game"
+                android:id="@+id/buttonRestartGame"
+                android:background="@drawable/buttons_background" android:layout_margin="7dp" android:textStyle="italic"
+                android:paddingLeft="8dp" android:paddingRight="8dp" android:maxLines="1"
+                android:textColor="#ffffffff"/>
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/quit_game"
+                android:id="@+id/buttonQuitGame"
+                android:background="@drawable/buttons_background" android:layout_margin="7dp" android:textStyle="italic"
+                android:paddingLeft="8dp" android:paddingRight="8dp" android:maxLines="1"
+                android:textColor="#ffffffff"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/container"></LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+                  android:orientation="horizontal"
+                  android:layout_weight="4" android:gravity="bottom"
+                  android:layout_alignParentRight="false"
+                  android:layout_alignParentEnd="false"
+                  android:layout_alignParentStart="false"
+                  android:layout_alignParentLeft="false"
+                  android:layout_alignParentBottom="true"
+                  android:id="@+id/linearLayoutAnswerButtons">
+
+
+
+        <LinearLayout android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical"
+                      android:layout_weight="1" android:gravity="center|bottom">
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Button1"
+                android:id="@+id/button1" android:singleLine="false"
+                android:background="@drawable/default_button" android:layout_margin="5dp" android:textStyle="italic"
+                android:paddingLeft="8dp" android:paddingRight="8dp" android:maxLines="1"
+                android:textColor="#ffffffff"/>
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Button2"
+                android:id="@+id/button2" android:background="@drawable/default_button" android:layout_margin="5dp"
+                android:textStyle="italic" android:paddingLeft="8dp" android:paddingRight="8dp" android:maxLines="1"
+                android:textColor="#ffffffff"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                android:orientation="vertical"
+                      android:layout_weight="1" android:gravity="center|bottom">
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Button3"
+                android:id="@+id/button3" android:background="@drawable/default_button" android:layout_margin="5dp"
+                android:textStyle="italic" android:paddingLeft="8dp" android:paddingRight="8dp" android:maxLines="1"
+                android:textColor="#ffffffff"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button4"
+            android:id="@+id/button4"
+            android:background="@drawable/default_button" android:layout_margin="5dp" android:textStyle="italic"
+            android:paddingLeft="8dp" android:paddingRight="8dp" android:maxLines="1" android:textColor="#ffffffff"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</RelativeLayout>
+

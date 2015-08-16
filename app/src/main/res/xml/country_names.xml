@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map name="county">
+    <entry key="1">Нидерланды</entry>
+    <entry key="2">ОАЭ</entry>
+    <entry key="3">Китай</entry>
+    <entry key="4">Греция</entry>
+    <entry key="5">Израиль</entry>
+    <entry key="6">Италия</entry>
+    <entry key="7">Украина</entry>
+    <entry key="8">Куба</entry>
+    <entry key="9">Великобритания</entry>
+    <entry key="10">Россия</entry>
+    <entry key="11">США</entry>
+    <entry key="12">Франция</entry>
+    <entry key="13">Россия</entry>
+    <entry key="14">Италия</entry>
+    <entry key="15">Бразилия</entry>
+
+    <entry key="16">Казахстан</entry>
+    <entry key="17">Испания</entry>
+    <entry key="18">ОАЭ</entry>
+    <entry key="19">Германия</entry>
+    <entry key="20">Италия</entry>
+    <entry key="21">Россия</entry>
+    <entry key="22">Малайзия</entry>
+    <entry key="23">США</entry>
+    <entry key="24">США</entry>
+    <entry key="25">Сингапур</entry>
+    <entry key="26">Россия</entry>
+    <entry key="27">Норвегия</entry>
+    <entry key="28">Чехия</entry>
+    <entry key="29">США</entry>
+    <entry key="30">Тайланд</entry>
+
+    <entry key="31">Австрия</entry>
+    <entry key="32">Айжербаджан</entry>
+    <entry key="33">Канада</entry>
+    <entry key="34">Чили</entry>
+    <entry key="35">Германия</entry>
+    <entry key="36">Китай</entry>
+    <entry key="37">Португалия</entry>
+    <entry key="38">США</entry>
+    <entry key="39">Монако</entry>
+    <entry key="40">США</entry>
+    <entry key="41">Италия</entry>
+    <entry key="42">США</entry>
+    <entry key="43">Сингапур</entry>
+    <entry key="44">Турция</entry>
+    <entry key="45">Эстония</entry>
+
+    <entry key="46">Норвегия</entry>
+    <entry key="47">Тайланд</entry>
+    <entry key="48">Германия</entry>
+    <entry key="49">Индия</entry>
+    <entry key="50">Исландия</entry>
+    <entry key="51">Италия</entry>
+    <entry key="52">Россия</entry>
+    <entry key="53">ЮАР</entry>
+    <entry key="54">Китай</entry>
+    <entry key="55">Перу</entry>
+    <entry key="56">Монако</entry>
+    <entry key="57">Норвегия</entry>
+    <entry key="58">Корея</entry>
+    <entry key="59">Китай</entry>
+    <entry key="60">Китай</entry>
+
+    <entry key="61">Бельгия</entry>
+    <entry key="62">Бельгия</entry>
+    <entry key="63">Шотландия</entry>
+    <entry key="64">Исландия</entry>
+    <entry key="65">Австалия</entry>
+    <entry key="66">Черногория</entry>
+    <entry key="67">Германия</entry>
+    <entry key="68">Новая Зеландия</entry>
+    <entry key="69">Португалия</entry>
+    <entry key="70">Латвия</entry>
+    <entry key="71">Швеция</entry>
+    <entry key="72">Япония</entry>
+    <entry key="73">Новая Зеландия</entry>
+    <entry key="74">Япония</entry>
+
+
+</map>

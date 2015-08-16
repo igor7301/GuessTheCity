@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess City</string>
+    <string name="APP_PREFERENCES">mysettings</string>
+    <string name="APP_PREFERENCES_CITY_GAME">city_game</string>
+    <string name="APP_PREFERENCES_CURRENT_LEVEL">current_level</string>
+
+    <string name="vk_app_id">5027113</string>
+    <string name="vk_app_secret_key">XgwI939y7QJVq3iLynwu</string>
+
+    <string name="start_game">СТАРТ</string>
+    <string name="setting">НАСТРОЙКИ</string>
+    <string name="CITY_PREFERENCE">ГОРОДА</string>
+    <string name="COUNTRY_PREFERENCE">СТРАНЫ</string>
+    <string name="restart_game">ЗАНОВО</string>
+    <string name="quit_game">ВЫЙТИ</string>
+    <string name="current_level">Уровень:</string>
+    <string name="continue_to_next_level">ДАЛЕЕ</string>
+    <string name="you_won_message">ВЫ ВЫЙГРАЛИ!</string>
+    <string name="you_loose_message">ВЫ ПРОИГРАЛИ.\nПОПРОБУЙТЕ ЕЩЕ РАЗ</string>
+    <string name="end_game_progress_message">ПРОГРЕСС:</string>
+    <string name="new_level_message">НОВОЕ ДОСТИЖЕНИЕ\nУРОВЕНЬ</string>
+    <string name="wall_message_success">Прогресс опубликован на вашей стене</string>
+    <string name="wall_message_error">Ошибка. Сообщение не опубликовано</string>
+
+    <string name="app_link">https://play.google.com/store/apps/details?id=com.guesscity.guessthecity</string>
+    <string name="login_error">Ошибка логирования</string>
+
+</resources>

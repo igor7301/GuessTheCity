@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map name="city">
+   <entry key = "1">Amsterdam</entry>
+        <entry key = "2">Dubai</entry>
+        <entry key = "3">Hong Kong</entry>
+        <entry key = "4">Fira</entry>
+        <entry key = "5">Jerusalem</entry>
+        <entry key = "6">Venice</entry>
+        <entry key = "7">Kyiv</entry>
+        <entry key = "8">Havana</entry>
+        <entry key = "9">London</entry>
+        <entry key = "10">Moscow</entry>
+        <entry key = "11">New York</entry>
+        <entry key = "12">Paris</entry>
+        <entry key = "13">Peterhof</entry>
+        <entry key = "14">Pisa</entry>
+        <entry key = "15">Rio</entry>
+
+   <entry key = "16">Astana</entry>
+        <entry key = "17">Barcelona</entry>
+        <entry key = "18">Dubai</entry>
+        <entry key = "19">Munich</entry>
+        <entry key = "20">Rome</entry>
+        <entry key = "21">Yalta</entry>
+        <entry key = "22">Kuala Lumpur</entry>
+        <entry key = "23">Las Vegas</entry>
+        <entry key = "24">Los Angeles</entry>
+        <entry key = "25">Singapore</entry>
+        <entry key = "26">Moscow</entry>
+        <entry key = "27">Lofoten</entry>
+        <entry key = "28">Prague</entry>
+        <entry key = "29">San Francisco</entry>
+        <entry key = "30">Rayong</entry>
+
+
+   <entry key = "31">Hallstatt</entry>
+        <entry key = "32">Baku</entry>
+        <entry key = "33">Vancouver</entry>
+        <entry key = "34">Santiago</entry>
+        <entry key = "35">Wurzburg</entry>
+        <entry key = "36">Guangxi</entry>
+        <entry key = "37">Lisbon</entry>
+        <entry key = "38">Miami</entry>
+        <entry key = "39">Monte Carlo</entry>
+        <entry key = "40">New York</entry>
+        <entry key = "41">Positano</entry>
+        <entry key = "42">Seattle</entry>
+        <entry key = "43">Singapore</entry>
+        <entry key = "44">Istanbul</entry>
+        <entry key = "45">Tallinn</entry>
+
+   <entry key = "46">Alesund</entry>
+        <entry key = "47">Bangkok</entry>
+        <entry key = "48">Bremm</entry>
+        <entry key = "49">Agra</entry>
+        <entry key = "50">Dalvik</entry>
+        <entry key = "51">Portofino</entry>
+        <entry key = "52">Moscow</entry>
+        <entry key = "53">Cape Town</entry>
+        <entry key = "54">Macau</entry>
+        <entry key = "55">Machu Picchu</entry>
+        <entry key = "56">Monte Carlo</entry>
+        <entry key = "57">Fredrikstad</entry>
+        <entry key = "58">Seoul</entry>
+        <entry key = "59">Shanghai</entry>
+        <entry key = "60">Lhasa (Tibet)</entry>
+
+   <entry key = "61">Antwerp</entry>
+        <entry key = "62">Dinan</entry>
+        <entry key = "63">Edinburgh</entry>
+        <entry key = "64">Reykjavík</entry>
+        <entry key = "65">Melbourne</entry>
+        <entry key = "66">Montenegro</entry>
+        <entry key = "67">Fussen</entry>
+        <entry key = "68">Auckland</entry>
+        <entry key = "69">Sintra</entry>
+        <entry key = "70">Riga</entry>
+        <entry key = "71">Stockholm</entry>
+        <entry key = "72">Tokyo</entry>
+        <entry key = "73">Wellington</entry>
+        <entry key = "74">Yokohama</entry>
+
+
+
+</map>

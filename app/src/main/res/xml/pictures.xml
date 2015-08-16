@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map name="pictures_file_names">
+
+        <!--Level1-->
+        <entry key="1">amsterdam_level1</entry>
+        <entry key="2">dubai_level1</entry>
+        <entry key="3">gongong_level1</entry>
+        <entry key="4">greece_santorini_level1</entry>
+        <entry key="5">israel_level1</entry>
+        <entry key="6">italy_venice_level1</entry>
+        <entry key="7">kiev_level1</entry>
+        <entry key="8">kuba_gavana_level1</entry>
+        <entry key="9">london_level1</entry>
+        <entry key="10">moscow_level1</entry>
+        <entry key="11">new_york_level1</entry>
+        <entry key="12">paris_level1</entry>
+        <entry key="13">petergoff_level1</entry>
+        <entry key="14">piza_italy_level1</entry>
+        <entry key="15">rio_level1</entry>
+
+
+        <!--Level2-->
+        <entry key="16">astana_level2</entry>
+        <entry key="17">barcelona_level2</entry>
+        <entry key="18">dubai_level2</entry>
+        <entry key="19">germany_munhen_level2</entry>
+        <entry key="20">italy_rim_level2</entry>
+        <entry key="21">krim_level2</entry>
+        <entry key="22">kuala_lumpur_level2</entry>
+        <entry key="23">las_vegas_level2</entry>
+        <entry key="24">los_angeles_level2</entry>
+        <entry key="25">marina_bay_level2</entry>
+        <entry key="26">moscow_level2</entry>
+        <entry key="27">norway_level2</entry>
+        <entry key="28">pague_level2</entry>
+        <entry key="29">sfo_level2</entry>
+        <entry key="30">tailand2_level2</entry>
+
+        <!--Level3-->
+        <entry key="31">austria_hallstat_level3</entry>
+        <entry key="32">baky_azerbadzan_level3</entry>
+        <entry key="33">canada_vancouver_level3</entry>
+        <entry key="34">chili_santyago_level3</entry>
+        <entry key="35">germany_wirzburg_level3</entry>
+        <entry key="36">kitai_guansi_level3</entry>
+        <entry key="37">lissabon_level3</entry>
+        <entry key="38">maiami_level3</entry>
+        <entry key="39">monaco_level3</entry>
+        <entry key="40">new_york_level3</entry>
+        <entry key="41">positano_italy_level3</entry>
+        <entry key="42">sietl_level3</entry>
+        <entry key="43">singapour_level3</entry>
+        <entry key="44">stambul_level3</entry>
+        <entry key="45">talling_level3</entry>
+
+        <!--Level4-->
+        <entry key="46">allesund_norway_level4</entry>
+        <entry key="47">bangkok_level4</entry>
+        <entry key="48">germany_brem_level4</entry>
+        <entry key="49">india_level4</entry>
+        <entry key="50">island_level4</entry>
+        <entry key="51">italy_portofino_level4</entry>
+        <entry key="52">izmailovo_kreml_level4</entry>
+        <entry key="53">keiptown_level4</entry>
+        <entry key="54">macao_level4</entry>
+        <entry key="55">machu_pukchu_level4</entry>
+        <entry key="56">monte_carlo_level4</entry>
+        <entry key="57">norway_frigristad_level4</entry>
+        <entry key="58">seul_level4</entry>
+        <entry key="59">shanhai_level4</entry>
+        <entry key="60">tibet_kitai_level4</entry>
+
+
+        <!--Level5-->
+        <entry key="61">antverpen_belgiya_level5</entry>
+        <entry key="62">belgiya_dinant_level5</entry>
+        <entry key="63">edinburg_ross_fontain_level5</entry>
+        <entry key="64">islandiya_reikyavik_level5</entry>
+        <entry key="65">melburn_level5</entry>
+        <entry key="66">montenegro_level5</entry>
+        <entry key="67">noishainshtain_germany_level5</entry>
+        <entry key="68">oaklend_new_zeland_level5</entry>
+        <entry key="69">portugaliya_level5</entry>
+        <entry key="70">riga_level5</entry>
+        <entry key="71">shweden_stockgolm_level5</entry>
+        <entry key="72">tokio_level5</entry>
+        <entry key="73">willington_new_zelenad_level5</entry>
+        <entry key="74">youkogama_japan_level5</entry>
+
+</map>

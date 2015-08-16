@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map name="county">
+   <entry key = "1">Netherlands</entry>
+        <entry key = "2">UAE</entry>
+        <entry key = "3">China</entry>
+        <entry key = "4">Greece</entry>
+        <entry key = "5">Israel</entry>
+        <entry key = "6">Italy</entry>
+        <entry key = "7">Ukraine</entry>
+        <entry key = "8">Cuba</entry>
+        <entry key = "9">United Kingdom</entry>
+        <entry key = "10">Russia</entry>
+        <entry key = "11">USA</entry>
+        <entry key = "12">France</entry>
+        <entry key = "13">Russia</entry>
+        <entry key = "14">Italy</entry>
+        <entry key = "15">Brazil</entry>
+
+        <entry key = "16">Kazakhstan</entry>
+        <entry key = "17">Spain</entry>
+        <entry key = "18">UAE</entry>
+        <entry key = "19">Germany</entry>
+        <entry key = "20">Italy</entry>
+        <entry key = "21">Russia</entry>
+        <entry key = "22">Malaysia</entry>
+        <entry key = "23">USA</entry>
+        <entry key = "24">USA</entry>
+        <entry key = "25">Singapore</entry>
+        <entry key = "26">Russia</entry>
+        <entry key = "27">Norway</entry>
+        <entry key = "28">Czech Republic</entry>
+        <entry key = "29">USA</entry>
+        <entry key = "30">Thailand</entry>
+
+        <entry key = "31">Austria</entry>
+        <entry key = "32">Ayzherbadzhan</entry>
+        <entry key = "33">Canada</entry>
+        <entry key = "34">Chile</entry>
+        <entry key = "35">Germany</entry>
+        <entry key = "36">China</entry>
+        <entry key = "37">Portugal</entry>
+        <entry key = "38">USA</entry>
+        <entry key = "39">Monaco</entry>
+        <entry key = "40">USA</entry>
+        <entry key = "41">Italy</entry>
+        <entry key = "42">USA</entry>
+        <entry key = "43">Singapore</entry>
+        <entry key = "44">Turkey</entry>
+        <entry key = "45">Estonia</entry>
+
+        <entry key = "46">Norway</entry>
+        <entry key = "47">Thailand</entry>
+        <entry key = "48">Germany</entry>
+        <entry key = "49">India</entry>
+        <entry key = "50">Iceland</entry>
+        <entry key = "51">Italy</entry>
+        <entry key = "52">Russia</entry>
+        <entry key = "53">South Africa</entry>
+        <entry key = "54">China</entry>
+        <entry key = "55">Peru</entry>
+        <entry key = "56">Monaco</entry>
+        <entry key = "57">Norway</entry>
+        <entry key = "58">Korea</entry>
+        <entry key = "59">China</entry>
+        <entry key = "60">China</entry>
+
+        <entry key = "61">Belgium</entry>
+        <entry key = "62">Belgium</entry>
+        <entry key = "63">Scotland</entry>
+        <entry key = "64">Iceland</entry>
+        <entry key = "65">Avstaliya</entry>
+        <entry key = "66">Montenegro</entry>
+        <entry key = "67">Germany</entry>
+        <entry key = "68">New Zealand</entry>
+        <entry key = "69">Portugal</entry>
+        <entry key = "70">Latvia</entry>
+        <entry key = "71">Sweden</entry>
+        <entry key = "72">Japan</entry>
+        <entry key = "73">New Zealand</entry>
+        <entry key = "74">Japan</entry>
+
+
+</map>
