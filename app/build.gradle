@@ -7,7 +7,7 @@ android {
         applicationId "com.guesscity.guessthecity"
         minSdkVersion 10
         targetSdkVersion 22
-        versionCode 6
+        versionCode 7
         versionName "1.0"
     }
     buildTypes {
